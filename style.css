@@ -1,0 +1,85 @@
+body {
+  background-image: url("img/background.jpg");
+  background-size: cover;
+}
+
+.container {
+  width: 1300px;
+  height: 900px;
+  background-color: rgba(20, 20, 20, 0.5);
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 2%;
+}
+
+#logo {
+  width: 250px;
+  margin: auto;
+  padding-top: 100px;
+  display: block;
+}
+
+#payoff {
+  color: rgb(0, 221, 0);
+  font-family: Montserrat, sans-serif;
+  display: block;
+  text-align: center;
+}
+
+.navbar {
+  width: 1200px;
+  height: 40px;
+  background-color: rgb(0, 221, 0);
+  margin: auto;
+}
+
+#buttons {
+  width: 350px;
+  height: 40px;
+  margin: auto;
+  padding-top: 10px;
+}
+
+main {
+  margin-left: 50px;
+}
+
+section {
+  margin-top: 20px;
+}
+
+.name {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+  font-family: Montserrat, sans-serif;
+}
+
+span {
+  display: block;
+  color: white;
+  font-family: Montserrat;
+  margin: 3px 0px 3px 0px;
+}
+
+.carica {
+  height: 35px;
+  border-radius: 10px;
+
+}
+
+.carica1 {
+  width: 400px;
+  background-color: orange;
+}
+
+.carica2 {
+  width: 700px;
+  background-color: rgb(0, 181, 0);
+}
+
+.carica3 {
+  width: 150px;
+  background-color: red;
+}
